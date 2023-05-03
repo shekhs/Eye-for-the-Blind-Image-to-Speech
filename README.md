@@ -26,6 +26,9 @@ The dataset is taken from the Kaggle website and it consists of sentence-based i
 **Model Evaluation**: Evaluate the models using **greedy search** and **[BLEU score](https://cloud.google.com/translate/automl/docs/evaluate#:~:text=BLEU%20(BiLingual%20Evaluation%20Understudy)%20is,of%20high%20quality%20reference%20translations.)**.
 
 ## Steps
- - Download the Flickr8k dataset. This will contain a captions file and an Images folder.   
- - Place in Images folder in root directory.  
- - Captions file should be placed in root directory as well.  
+ - Download the Flickr8k dataset. This will contain a captions file and an Images folder.   0
+ - Unzip the contents in root directory.  
+     - Place in Images folder in root directory.  
+     - Captions file should be placed in root directory as well.  
+ - Run the notebook after installing all dependencies.  
+ 
