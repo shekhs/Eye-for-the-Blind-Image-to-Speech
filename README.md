@@ -31,4 +31,5 @@ The dataset is taken from the Kaggle website and it consists of sentence-based i
      - Place in Images folder in root directory.  
      - Captions file should be placed in root directory as well.  
  - Run the notebook after installing all dependencies.  
+ - The notebook will generate a wav file explaining the image contents. 
  
