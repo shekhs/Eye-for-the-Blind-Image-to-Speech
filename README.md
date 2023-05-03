@@ -15,13 +15,13 @@ The dataset is taken from the Kaggle website and it consists of sentence-based i
 
 ## Pipeline
 
-**Data Understanding**: loading the data and understand the representation.  
+*Data Understanding* loading the data and understand the representation.  
 
-**Data Preprocessing**: processing both images and captions to the desired format.  
+*Data Preprocessing* processing both images and captions to the desired format.  
 
-**Train-Test Split**: Combining both images and captions to create the train and test dataset.  
+*Train-Test Split* Combining both images and captions to create the train and test dataset.  
 
-**Model Building**: create the image captioning model by building *Encoder, Attention and Decoder model.*. 
+*Model Building* create the image captioning model by building *Encoder, Attention and Decoder model.*. 
 
 **Model Evaluation**: Evaluate the models using **greedy search** and **[BLEU score](https://cloud.google.com/translate/automl/docs/evaluate#:~:text=BLEU%20(BiLingual%20Evaluation%20Understudy)%20is,of%20high%20quality%20reference%20translations.)**.
 
