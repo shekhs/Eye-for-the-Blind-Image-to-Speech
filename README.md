@@ -1,5 +1,5 @@
 # Eye-for-the-Blind
-## Image-to-Speech.
+## Image-to-Speech
 A deep learning model which can explain the contents of an image in the form of speech through caption generation with an attention mechanism on *[Flickr8K dataset](https://www.kaggle.com/adityajn105/flickr8k)*.
 
 ## Motivation
